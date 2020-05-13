@@ -1,0 +1,20 @@
+{
+  "name": "Mata mosquito",
+  "authors": [
+    "Kawan <kawan-silva@outlook.com>"
+  ],
+  "description": "Mate todos os mosquitos e se mantenha vivo!",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
