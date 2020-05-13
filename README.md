@@ -13,7 +13,7 @@ Quanto mais difícil mais mosquitos apareceram para te matar, será que você é
 
 _**Bower:**_
 Bower é um utilitário de linha de comando. Instale-o com o npm. 
-[sobre]([https://bower.io/](https://bower.io/)).
+[sobre](https://bower.io/).
 
 ```
 npm install -g bower
