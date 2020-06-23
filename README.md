@@ -7,24 +7,7 @@ Mata mosquito é um game onde você precisa se manter vivo durante 30 segundos m
 * Difícil 
 * Expert
 
-Quanto mais difícil mais mosquitos apareceram para te matar, será que você é rápido o bastante?
-
-### Instruções
-
-_**Bower:**_
-Bower é um utilitário de linha de comando. Instale-o com o npm. 
-[sobre](https://bower.io/).
-
-```
-npm install -g bower
-```
-
-_**Instalando pacotes:**_
-acesse a pasta do projeto pelo console/terminal e digite:
-
-```bash
-bower install
-```
+Quanto mais difícil mais mosquitos apareceram para te matar.
 
 ### Porque este projeto?
 
